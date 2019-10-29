@@ -1,1 +1,2 @@
-This is 1st update of this project.
+# Frontend Technologies :
+This website is purly based on HTML and CSS
